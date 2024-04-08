@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -23,31 +22,20 @@ How well those variables describe the bike demands
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- The following variables are significant in predicting the demand for shared bikes:
-- temperature, windspeed, year, season(summer and winter), month(aug, sep), weather situation(misty and light snow)
-- Holiday, windspeed and misty, light snow are negatively correlated
-
-The equation of linear regression model is :
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
 ## Technologies Used
 - pandas 
 - numpy 
 - sklearn 
 - statsmodelapi
 
+## Conclusions
+- The following variables are significant in predicting the demand for shared bikes:
+- temperature, windspeed, year, season(summer and winter), month(aug, sep), weather situation(misty and light snow)
+- Holiday, windspeed and misty, light snow are negatively correlated
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-This project is upgrad Linear Regression Assignment.
-
-
-## Contact
-Created by [@pranetasameer] - feel free to contact me!
-
 
 <!-- Optional -->
 <!-- ## License -->
